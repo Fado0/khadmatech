@@ -1,0 +1,485 @@
+{
+  "booking_details": {
+  "title": "Booking Details",
+  "worker_name": "Worker Name",
+  "worker_type": "Job Title",
+  "company": "Company Name",
+  "city": "📍 City",
+  "district": "📍 District",
+  "address": "📍 Address",
+  "date": "📅 Date",
+  "time": "⏰ Time",
+  "phone": "📞 Phone",
+  "unknown": "Unknown",
+  "not_available": "Not Available"
+},
+
+"edit_profile": {
+  "title": "Edit Profile",
+  "name": "Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "save": "Save Changes",
+  "success": "Changes saved successfully",
+  "error": "An error occurred"
+},
+
+"booking": {
+  "title": "Book Service",
+  "not_selected_date": "No date selected",
+  "confirm": "Confirm Booking",
+  "select_city": "Select City",
+  "validation_city": "Please select a city",
+  "select_district": "Select District",
+  "validation_district": "Please select a district",
+  "address": "Full Address",
+  "address_hint": "e.g. Prince St., near gas station",
+  "validation_address": "Please enter the address",
+  "select_date": "Select Date",
+  "validation_date": "Please select a date",
+  "select_time": "Select Time",
+  "validation_time": "Please select a time",
+  "day_fully_booked": "This day is fully booked. Please choose another date."
+},
+
+"faq": {
+  "title": "Frequently Asked Questions",
+  "q1": "How can I book a service?",
+  "a1": "You can book the service by visiting the worker's page, clicking 'Book Now', and selecting the date and location.",
+  "q2": "Can I modify or cancel my booking?",
+  "a2": "Yes, you can modify or cancel the booking before the scheduled time from the 'My Bookings' page.",
+  "q3": "What are the available payment methods?",
+  "a3": "Currently, payment is made in cash upon service completion. Electronic payment options will be available soon.",
+  "q4": "How can I rate the worker after the service?",
+  "a4": "You can rate the worker from the 'My Bookings' page once the order is completed.",
+  "q5": "What should I do if I face a problem?",
+  "a5": "Please contact us through the 'Support' page and we will assist you promptly."
+},
+"home": {
+  "all_services": "All Services",
+  "electricity": "Electricity",
+  "plumbing": "Plumbing",
+  "babysitting": "Babysitting",
+  "cleaning": "Cleaning",
+  "painting": "Painting",
+  "carwash": "Car Wash",
+  "car_repair": "Car Repair",
+  "elderly": "Elderly Care",
+  "gardening": "Gardening",
+  "description": "We provide various services at your fingertips, wherever you are."
+}
+,"bookings": {
+  "title": "My Bookings",
+  "all": "All",
+  "pending": "Pending",
+  "inProgress": "In Progress",
+  "completed": "Completed",
+  "cancelled": "Cancelled",
+  "rejected": "Rejected",
+  "unknown": "Unknown",
+  "error": "An error occurred",
+  "noBookings": "No bookings available.",
+  "notAvailable": "Not available",
+  "location": "📍 Location",
+  "type": "🛠️ Type",
+  "workerPhone": "📞 Worker Phone",
+  "status": "Status",
+  "rateWorker": "Rate Worker",
+  "ratingTitle": "Rate",
+  "ratingDescriptionHint": "Write a comment about the worker (optional)",
+  "selectStars": "Select number of stars",
+  "optionalNote": "Write your notes (optional)",
+  "cancel": "Cancel",
+  "submit": "Submit",
+  "selectRatingFirst": "Please select a rating first",
+  "alreadyRated": "You have already rated this worker",
+  "ratingSuccess": "✅ Rating submitted successfully",
+  "cancelSuccess": "✅ Booking cancelled successfully",
+
+  "worker": "Worker",
+  "rejectReason": "Rejection Reason",
+  "cancelRequest": "Cancel Request",
+  "tapForDetails": "Tap the card to view details",
+  "clientName": "Client Name",
+"workerName": "Worker Name",
+"companyName": "Company Name",
+"cancelReason": "Cancellation Reason",
+"selectReason": "Select a reason",
+"reasonRequired": "Please select a reason",
+"confirmCancel": "Confirm Cancellation",
+"back": "Back"
+
+},
+
+"payment": {
+  "title": "Payment Method",
+  "cash": "Cash Payment",
+  "card": "Credit Card Payment",
+  "card_name": "Cardholder Name:",
+  "card_number": "Card Number:",
+  "card_number_hint": "e.g. 1234 1234 1234 1234",
+  "cvv": "CVV Code:",
+  "cvv_hint": "e.g. 123",
+  "expiry": "Expiration Date (MM/YY):",
+  "month": "Month",
+  "year": "Year",
+  "confirm_booking": "Confirm Booking",
+  "validation_name": "Please enter the name",
+  "validation_name_format": "Name must be in English letters only",
+  "validation_card": "Please enter the card number",
+  "validation_card_length": "Card number must be 16 digits",
+  "validation_cvv": "Invalid CVV code",
+  "validation_month": "Select the month",
+  "validation_year": "Select the year"
+},
+
+
+
+
+"cancel_reason": {
+  "change_mind": "تراجعت عن القرار",
+  "found_better": "وجدت خيارًا أفضل",
+  "price_issue": "مشاكل في السعر",
+  "other": "أخرى"
+},
+ "profile": {
+    "title": "My Account",
+    "edit_data": "Edit Profile",
+    "about_app": "About the App",
+    "privacy_policy": "Privacy Policy",
+    "support": "Support",
+    "faq": "FAQ",
+    "rate_us": "Rate Us",
+    "logout": "Logout",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode",
+    "more": "More",
+    "email": "Email",
+    "phone": "Phone Number",
+    "company_name": "Company Name"
+  },
+
+  "booking_success": {
+  "title": "Booking completed successfully!",
+  "subtitle": "Thank you for using our app. We will contact you shortly to confirm the booking.",
+  "home": "Back to Home",
+  "view_bookings": "View My Bookings"
+},
+
+"support": {
+  "title": "Support",
+  "whatsapp": "Contact via WhatsApp",
+  "report_title": "Submit a report or complaint",
+  "name": "Name",
+  "phone": "Phone number",
+  "email": "Email",
+  "message": "Problem or complaint",
+  "submit": "Submit report",
+  "validation_required": "This field is required",
+  "success": "Report submitted successfully",
+  "whatsapp_error": "Failed to open WhatsApp"
+},
+"worker_details": {
+  "error_loading": "Error loading data.",
+  "loading": "Loading...",
+  "not_found": "Worker not found.",
+  "service_type": "Service Type:",
+  "nationality": "Nationality:",
+  "hourly_rate": "Hourly Rate:",
+  "currency": "SAR",
+  "requests_done": "Requests Completed:",
+  "requests": "request(s)",
+  "company": "Company:",
+  "rating": "Rating:",
+  "average_rating": "Average Rating",
+  "book_now": "Book Now",
+  "unknown": "Unknown"
+},
+
+
+  "navbar": {
+    "home": "Home",
+    "bookings": "Bookings",
+    "profile": "Profile"
+  }, 
+
+  "worker_card": {
+  "no_name": "No name",
+  "service": "Service",
+  "unspecified": "Unspecified"
+},
+
+"all_services": {
+  "title": "All Services",
+  "error": "An error occurred while loading data.",
+  "empty": "No workers available at the moment."
+},
+"filters": {
+  "all": "All",
+  "cleaning": "Cleaning",
+  "plumbing": "Plumbing",
+  "electricity": "Electricity",
+  "babysitting": "Babysitting",
+  "gardening": "Gardening",
+  "painting": "Painting",
+  "senior_care": "Elderly Care",
+  "car_wash": "Car Wash",
+  "car_repair": "Car Repair"
+},
+
+"babysitter": {
+  "title": "Babysitters",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while fetching data.",
+  "empty": "No babysitters available at the moment."
+},
+"car_repair": {
+  "title": "Car Repair",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "🚘 No car repair workers available at the moment."
+},
+"painting": {
+  "title": "Painting",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "No painting workers available at the moment."
+},
+"plumbing_page": {
+  "title": "Plumbing",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "No plumbing workers available at the moment."
+},
+"car_wash": {
+  "title": "Car Wash",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "No car wash workers available at the moment."
+},
+"clean": {
+  "title": "Cleaning",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "No cleaning workers available at the moment."
+},
+"elderly": {
+  "title": "Elderly Care",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "🚫 No elderly care workers available at the moment."
+},
+"electricity": {
+  "title": "Electricity",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "🚫 No electricians available at the moment."
+}
+,
+"gardener": {
+  "title": "Gardening",
+  "service": "Service",
+  "no_name": "No name",
+  "error": "An error occurred while loading data.",
+  "empty": "🌿 No gardeners available at the moment."
+},
+"all_orders": {
+  "title": "All Orders",
+  "worker": "Worker",
+  "service": "Service",
+  "client": "Client"
+},
+
+"add_worker_page": {
+  "title": "Add New Worker",
+  "add": "Add",
+  "success": "Successfully",
+  "please_enter": "Please enter",
+  "name": "Name",
+  "email": "Email",
+  "iqama_number": "Iqama Number",
+  "location": "Location",
+  "phone_number": "Phone Number",
+  "service_type": "Service Type",
+  "hourly_rate": "Hourly Rate"
+},
+"company_dashboard": {
+  "welcome": "Welcome",
+  "orders_overview": "Orders Summary",
+  "company_requests": "Client Requests",
+  "company_requests_note": "The number of requests includes all statuses such as pending, in progress, completed, and rejected.",
+  "last_orders": "Recent Orders",
+  "order_id": "Order ID",
+  "worker_type": "Worker Type",
+  "company": "Company",
+  "location": "Location",
+  "description": "Description",
+  "worker_id": "Worker ID",
+  "client_id": "Client ID",
+  "status": "Status",
+  "status_pending": "Pending",
+  "status_in_progress": "In Progress",
+  "status_completed": "Completed",
+  "status_rejected": "Rejected"
+}
+
+
+,
+
+"company_orders": {
+  "title": "Orders",
+  "all": "All Orders",
+  "electricity": "Electricity",
+  "plumbing": "Plumbing",
+  "babysitting": "Babysitting",
+  "cleaning": "Cleaning",
+  "painting": "Painting",
+  "car_wash": "Car Wash",
+  "car_repair": "Car Repair",
+  "senior_care": "Senior Care",
+  "gardening": "Gardening"
+},
+
+
+  "company_profile": {
+    "company_account": "Company Account",
+    "more": "More",
+    "edit_data": "Edit Information",
+    "about_app": "About the App",
+    "privacy_policy": "Privacy Policy",
+    "support": "Support",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "logout": "Logout"
+  },
+
+
+
+"company_reviews": {
+  "title": "Reviews",
+  "no_reviews": "No reviews yet.",
+  "reviews_intro": "Below are customer reviews and ratings for your company:",
+  "average_rating": "Average Rating",
+  "review_date": "Review Date:",
+    "request_id": "Request ID",
+  "worker_id": "Worker ID"
+},
+
+"company_workers": {
+  "workers_title": "Workers",
+  "job_title": "Job Title",
+  "phone_number": "Phone Number",
+  "add_worker": "Add New Worker"
+},
+
+"workers_page": {
+  "workers_title": "My Workers",
+  "add_worker": "Add New Worker",
+  "job_title": "Job Title",
+  "phone_number": "Phone Number"
+},
+  "notifications": "Notifications",
+  "order_status": "Order Status",
+
+  "edit_company_contact_page": {
+  "edit_data": "Edit Data",
+  "company_name": "Company Name",
+  "email": "Email",
+  "phone": "Phone Number",
+  "invalid_phone": "Invalid phone number. It must start with 05 and be 10 digits long.",
+  "changes_saved": "Changes saved successfully"
+},
+
+"order_details_page": {
+  "order_details": "Order Details",
+  "client_name": "Client Name",
+  "request_type": "Request Type",
+  "order_date": "Order Date",
+  "order_status": "Order Status"
+},
+
+"orders_list_page": {
+  "search_by_title": "Search by order title...",
+  "progress_label": "Progress",
+  "all": "All",
+  "new": "New",
+  "in_progress": "In Progress",
+  "completed": "Completed",
+  "rejected": "Rejected"
+},
+"worker_details_page": {
+  "worker_details_title": "Worker Details",
+  "job_title": "Job Title",
+  "nationality": "Nationality",
+  "id_number": "ID Number",
+  "location": "Location",
+  "phone": "Phone Number",
+  "email": "Email",
+  "price_per_hour": "Price per Hour",
+  "sar": "SAR",
+  "requests_count": "Requests Count",
+  "rating": "Rating",
+  "status": "Status"
+},
+
+"nav": {
+  "nav_home": "Home",
+  "nav_workers": "Workers",
+  "nav_orders": "Orders",
+  "nav_reviews": "Reviews",
+  "nav_account": "Account"
+},
+
+  "admin_nav": {
+    "settings": "Settings",
+    "approved_workers": "Approved Workers",
+    "requests": "Requests"
+  },
+  "admin_settings": {
+    "phone": "Phone Number",
+    "role": "Role",
+    "logout": "Logout",
+    "copied": "Copied"
+  },
+  "admin_workers": {
+    "select_type": "Select Service Type",
+    "no_types": "No available types",
+    "select_type_first": "Please select a service type first",
+    "no_workers": "No workers found",
+    "error": "An error occurred while loading workers",
+    "no_name": "No name",
+    "service": "Service",
+    "charge": "Charge",
+    "per_hour": "per hour",
+    "iqama": "Iqama",
+    "phone": "Phone"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "pending": "Pending Workers",
+    "rejected": "Rejected Workers",
+    "no_rejected": "No rejected workers",
+    "no_pending": "No pending workers",
+    "rejection_reason": "Rejection Reason",
+    "enter_reason": "Enter reason for rejection",
+    "cancel": "Cancel",
+    "reject": "Reject",
+    "reason": "Reason",
+    "load_error": "Error loading data"
+  },
+
+"orders_total": "Orders Summary",
+"order_count": "Total Orders: {}",
+"new": "New",
+"in_progress": "In Progress",
+"completed": "Completed",
+"cancelled": "Cancelled"
+}
