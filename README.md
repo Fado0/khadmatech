@@ -1,16 +1,19 @@
-# khadmatech 
+# KhadmaTech
 
-A new Flutter project.
+KhadmaTech is a Flutter application that connects customers with trusted service providers in various fields such as cleaning, plumbing, electrical work, babysitting, and more.  
+It uses Firebase for authentication, database storage, and real-time updates.
 
-## Getting Started
+## Features
+- Multi-language support (Arabic & English)
+- Firebase Authentication (Login, Register, Forgot Password)
+- Real-time bookings with Firestore
+- Company dashboards to manage workers and requests
+- Rating & reviews system for workers
+- Payment page with cash and card options
+- Additional booking details and descriptions
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase Firestore, Firebase Auth
+- **State Management:** Provider
+- **Localization:** Easy Localization
